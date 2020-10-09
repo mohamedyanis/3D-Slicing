@@ -21,6 +21,9 @@ Please :star: this repo to help us improve the quality.
 Home           | Slicing
 :---------------------:|:------------------:
 ![screenshoot](screenshots/3ds2.png) | ![screenshoot](screenshots/3ds1.png) <br>
+main
+![Farmers Market Finder Demo](screenshots/3dslicing.mp4)
+
 
 ## Video
 demonstration video
