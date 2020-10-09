@@ -22,11 +22,6 @@ Home           | Slicing
 :---------------------:|:------------------:
 ![screenshoot](screenshots/3ds2.png) | ![screenshoot](screenshots/3ds1.png) <br>
 
-## Video
-demonstration video
-:---------------------:
-![](screenshots/3dslicing.mp4)
-
 ## Requirements
 * processing3
 * wblut
