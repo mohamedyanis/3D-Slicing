@@ -13,6 +13,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 * [x] Free & Open Source
 * [x] Very Easy to use
 * [x] No Internet connection required
+* [x] Simple OPP (object Oriented Programming)
 
 ## Thank _You_!
 Please :star: this repo to help us improve the quality.
