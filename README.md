@@ -25,7 +25,7 @@ Home           | Slicing
 ## Video
 demonstration video
 :---------------------:
-![screenshoot](screenshots/3ds1.png)
+![](screenshots/3ds1.png)
 
 ## Requirements
 * processing3
