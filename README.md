@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-This simple game written with processing3, java.util wblut libraries.<br>
+This simple animation written with processing3, java.util wblut libraries.<br>
 Click <a href="https://processing.org/"> here </a> to read more about **Processing3**.
 
 ## #100daysofcode
