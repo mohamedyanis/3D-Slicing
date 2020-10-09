@@ -25,7 +25,7 @@ Home           | Slicing
 ## Video
 demonstration video
 :---------------------:
-<img src='https://github.com/mohamedyanis/3D-Slicing/blob/master/screenshots/3dslicing.mp4'>
+![screenshoot](screenshots/3ds1.png)
 
 ## Requirements
 * processing3
