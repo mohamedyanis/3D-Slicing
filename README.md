@@ -25,7 +25,7 @@ Home           | Slicing
 ## Video
 demonstration video
 :---------------------:|:------------------:
-![screenshoot](screenshots/3dslicing.mp4)
+![SC2 Video](screenshots/3dslicing.mp4)
 
 ## Requirements
 * processing3
