@@ -25,7 +25,7 @@ Home           | Slicing
 ## Video
 demonstration video
 :---------------------:|:------------------:
-![SC2 Video](screenshots/3dslicing.mp4)
+![Farmers Market Finder Demo](screenshots/3dslicing.mp4)
 
 ## Requirements
 * processing3
