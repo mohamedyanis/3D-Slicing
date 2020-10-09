@@ -25,7 +25,7 @@ Home           | Slicing
 ## Video
 demonstration video
 :---------------------:
-![](screenshots/3dslicing.gif)
+![](screenshots/3dslicer.mp4)
 
 ## Requirements
 * processing3
