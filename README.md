@@ -1,5 +1,5 @@
 # 3D Slicing
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 This simple animation written with processing3, java.util wblut libraries.<br>
